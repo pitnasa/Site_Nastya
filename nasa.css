@@ -1,0 +1,9 @@
+h1 {color:#4682B4;font-size:48px;font-family:verdana;font-style:italic;}
+h2 {color:#00BFFF;font-size:25px}
+h3 {color:#1E90FF;font-size:20px;font-family:sans-serif;font-style:oblique;font-variant:small-caps;}
+h5 {text-align:center;text-decoration:line-through;}
+
+body {background-color:#87CEEB;}
+
+table {width:800px;border:25px DeepSkyBlue;margin:auto;}
+td {text-align:center;background-color:#AFEEEE;}
